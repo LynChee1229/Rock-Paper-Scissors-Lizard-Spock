@@ -150,9 +150,13 @@ public class TeamInitialization extends JFrame implements ActionListener {
 
         // if event occurred on the team one button (team one done register)
         if(e.getSource() == teamOneReady){
-            
+
+            // used for check if players insert spaces for name
+            String noSpace1 = memberT1p1.replaceAll("\\s","");
+            String noSpace2 = memberT1p2.replaceAll("\\s","");
+
             // check if any text field is empty, prompt player to insert name (Otherwise, display players' name)
-            if(memberT1p1.isEmpty() || memberT1p2.isEmpty())
+            if(memberT1p1.isEmpty() || memberT1p2.isEmpty() || noSpace1.equals("") || noSpace2.equals(""))
                 readyT1.setText("Team 1 : Please insert your name(s)!!");
             else {
                 readyT1.setText("Hi Team 1 : [player 1] " + memberT1p1 + ", [player 2] " + memberT1p2);
@@ -164,8 +168,12 @@ public class TeamInitialization extends JFrame implements ActionListener {
         // if event occurred on the team two button (team two done register)
         if(e.getSource() == teamTwoReady) {
 
+            // used for check if players insert spaces for name
+            String noSpace1 = memberT2p1.replaceAll("\\s","");
+            String noSpace2 = memberT2p2.replaceAll("\\s","");
+
             // check if any text field is empty, prompt player to insert name (Otherwise, display players' name)
-            if(memberT2p1.isEmpty() || memberT2p2.isEmpty())
+            if(memberT2p1.isEmpty() || memberT2p2.isEmpty() || noSpace1.equals("") || noSpace2.equals(""))
                 readyT2.setText("Team 2 : Please insert your name(s)!!");
             else {
                 readyT2.setText("Hi Team 2 : [player 1] " + memberT2p1 + ", [player 2] " + memberT2p2);
