@@ -2,40 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554f1f90-b066-47ca-9036-5d1279081ae4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compiled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Rock-Paper-Scissors-Lizard-Spock .iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGroupAssignment/BattleScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaGroupAssignment/BattleScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TT6V_1191202464_ChewZhiPeng.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Rock-Paper-Scissors-Lizard-Spock.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TT6V_1191202464_ChewZhiPeng_AppendixA_TaskDistribution.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Compiled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compiled/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Compiled/JavaGroupAssignment/BattleScreen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Compiled/JavaGroupAssignment/ResultScreen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Compiled/JavaGroupAssignment/TeamInitialization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Compiled/JavaGroupAssignment/WelcomeScreen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Compiled/TT6V_1191202464_ChewZhiPeng.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compiled/Rock-Paper-Scissors-Lizard-Spock .iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Compiled/TT6V_1191202464_ChewZhiPeng_AppendixA_TaskDistribution.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/Compiled.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/BattleScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/BattleScreen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/ResultScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/ResultScreen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/TeamInitialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/TeamInitialization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/WelcomeScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/WelcomeScreen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/congrats.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/congrats.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/lizard.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/lizard.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/paper.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/paper.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/rock.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/rock.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/rule.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/rule.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/scissors.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/scissors.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/spock.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/spock.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/tie.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/tie.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/tieGame.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/tieGame.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/TT6V_1191202464_ChewZhiPeng.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/Rock-Paper-Scissors-Lizard-Spock .iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/TT6V_1191202464_ChewZhiPeng_AppendixA_TaskDistribution.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaGroupAssignment/image/readme images/Banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaGroupAssignment/image/readme images/Banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaGroupAssignment/image/readme images/Welcome Page - after selection.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaGroupAssignment/image/readme images/Welcome Page - after selection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaGroupAssignment/image/readme images/Welcome Page - before selection.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaGroupAssignment/image/readme images/Welcome Page - before selection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
