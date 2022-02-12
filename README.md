@@ -1,4 +1,5 @@
-# Rock-Paper-Scissors-Lizard-Spock <img src="/JavaGroupAssignment/image/readme images/Banner.png" alt="Banner" height="29" width="auto">
+<h1 align = "center">Rock-Paper-Scissors-Lizard-Spock</h1>
+<p align = "center"><img src="/JavaGroupAssignment/image/readme images/Banner.png" alt="Banner" height="58" width="auto"></p>
 
 A GUI application game developed using the Java programming language.
 
@@ -18,7 +19,7 @@ A GUI application game developed using the Java programming language.
 * Spock vaporizes Rock
 * Rock crushes Scissors
 
-<img src="/JavaGroupAssignment/image/rule.jfif" alt="Rules">
+<img src="/JavaGroupAssignment/image/rule.jfif" alt="Rules" height="66">
 
 
 
