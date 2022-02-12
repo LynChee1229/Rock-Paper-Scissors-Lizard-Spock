@@ -296,6 +296,7 @@ public class BattleScreen extends JFrame implements ActionListener {
             winFrame.setResizable(false);
             winFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             winFrame.setTitle("Congratulation!!!");
+
             winFrame.setAllBackground(clr);         // call the method of ResultScreen class to set the background color of the next frame
 
             winFrame.setName(playerT1P1, playerT1P2, playerT2P1, playerT2P2);   // call the method of ResultScreen class to set the players' name

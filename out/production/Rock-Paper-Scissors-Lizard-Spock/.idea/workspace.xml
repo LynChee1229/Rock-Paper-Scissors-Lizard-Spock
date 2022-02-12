@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="554f1f90-b066-47ca-9036-5d1279081ae4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compiled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Rock-Paper-Scissors-Lizard-Spock .iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaGroupAssignment/BattleScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaGroupAssignment/BattleScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TT6V_1191202464_ChewZhiPeng.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Rock-Paper-Scissors-Lizard-Spock.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TT6V_1191202464_ChewZhiPeng_AppendixA_TaskDistribution.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compiled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compiled/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compiled/JavaGroupAssignment/BattleScreen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compiled/JavaGroupAssignment/ResultScreen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compiled/JavaGroupAssignment/TeamInitialization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compiled/JavaGroupAssignment/WelcomeScreen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compiled/TT6V_1191202464_ChewZhiPeng.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compiled/Rock-Paper-Scissors-Lizard-Spock .iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compiled/TT6V_1191202464_ChewZhiPeng_AppendixA_TaskDistribution.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/Compiled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/BattleScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/BattleScreen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/ResultScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/ResultScreen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/TeamInitialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/TeamInitialization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/WelcomeScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/WelcomeScreen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/congrats.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/congrats.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/lizard.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/lizard.jfif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/paper.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/paper.jfif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/rock.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/rock.jfif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/rule.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/rule.jfif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/scissors.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/scissors.jfif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/spock.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/spock.jfif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/tie.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/tie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaGroupAssignment/image/tieGame.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaGroupAssignment/image/tieGame.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/JavaProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/JavaProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/TT6V_1191202464_ChewZhiPeng.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rock-Paper-Scissors-Lizard-Spock/Rock-Paper-Scissors-Lizard-Spock .iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TT6V_1191202464_ChewZhiPeng/TT6V_1191202464_ChewZhiPeng_AppendixA_TaskDistribution.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="1oqdEDrxVxdE14QotQvyHhFerg3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.WelcomeScreen">
+    <configuration name="BattleScreen (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TT6V_1191202464_ChewZhiPeng.BattleScreen" />
+      <module name="Rock-Paper-Scissors-Lizard-Spock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TT6V_1191202464_ChewZhiPeng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BattleScreen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaGroupAssignment.BattleScreen" />
+      <module name="Rock-Paper-Scissors-Lizard-Spock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaGroupAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResultScreen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaGroupAssignment.ResultScreen" />
+      <module name="Rock-Paper-Scissors-Lizard-Spock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaGroupAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeamInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaGroupAssignment.TeamInitialization" />
+      <module name="Rock-Paper-Scissors-Lizard-Spock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaGroupAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WelcomeScreen" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaGroupAssignment.WelcomeScreen" />
+      <module name="Rock-Paper-Scissors-Lizard-Spock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaGroupAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BattleScreen" />
+        <item itemvalue="Application.BattleScreen (1)" />
+        <item itemvalue="Application.ResultScreen" />
+        <item itemvalue="Application.TeamInitialization" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="554f1f90-b066-47ca-9036-5d1279081ae4" name="Default Changelist" comment="" />
+      <created>1614017942724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614017942724</updated>
+      <workItem from="1614017944397" duration="13276000" />
+      <workItem from="1614054944075" duration="27837000" />
+      <workItem from="1614279831201" duration="10481000" />
+      <workItem from="1614325836915" duration="6882000" />
+      <workItem from="1614333014048" duration="1248000" />
+      <workItem from="1614335029450" duration="9000" />
+      <workItem from="1614335048928" duration="69000" />
+      <workItem from="1614335127291" duration="115000" />
+      <workItem from="1614336779480" duration="81000" />
+      <workItem from="1614597035748" duration="1193000" />
+      <workItem from="1614663012927" duration="6898000" />
+      <workItem from="1614759290359" duration="6000" />
+      <workItem from="1614762841658" duration="729000" />
+      <workItem from="1614851499892" duration="24000" />
+      <workItem from="1614857949843" duration="1238000" />
+      <workItem from="1614873982178" duration="3980000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
