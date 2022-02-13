@@ -52,13 +52,13 @@ Battle Screen 1.0 &#x25B8; One player from each team takes turns clicking the "B
 
 <br/>
 
-results of each round 1.0 &#x25B8; The winner of each round will get 1 point.
-<img src="/JavaGroupAssignment/image/readme images/Round Result Screen 1.png" height="420" width="auto">
+\* results of each round 1.0 &#x25B8; The winner of each round will get 1 point.  
+<img src="/JavaGroupAssignment/image/readme images/Round Result Screen 1.png" height="180" width="auto">
 
 <br/>
 
-results of each round 2.0 &#x25B8; If there is a tie, add more rounds until there is a winner.
-<img src="/JavaGroupAssignment/image/readme images/Round Result Screen 2.png" height="420" width="auto">
+\* results of each round 2.0 &#x25B8; If there is a tie, add more rounds until there is a winner.
+<img src="/JavaGroupAssignment/image/readme images/Round Result Screen 2.png" height="180" width="auto">
 <img src="/JavaGroupAssignment/image/readme images/Round Result Screen 3.png" height="180" width="auto">
 
 <br/>
@@ -86,4 +86,3 @@ Result Screen 2.0 &#x25B8; The winner will be the team with the highest point.
 <a href="#title">Back to top</a>
 
 [^1]: *Developed as a group assignment by Chan Lin Chee, Chew Zhi Peng, Ho Ko Ee, Matthew Labial John, and Yong Jing Ping.*
-
